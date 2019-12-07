@@ -21,7 +21,7 @@
 
 계획은 다음과 같이 하기로 했다.
 
->&nbsp;
+>&nbsp;  
 > **기획** :cd:: Powerpoint  
 > **프로토타이핑** :movie_camera: : WebFlow  
 > **개발** :video_game:: React Native  
