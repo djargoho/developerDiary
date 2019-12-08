@@ -35,9 +35,16 @@ react-native가 따로 **CSS를 지원을 하지 않는다는 문제**가 있었
 
 아마 플레이어 검색 부분만 먼저 개발하여 진행하고 신속하게 진행하지 않을까 싶다.
 
+
 &nbsp;
 &nbsp;
 &nbsp;
 
+
+## 추가 작업
+
+한번 프로토 타입으로 만들어 봤는데 쉽지가 않다... 
+
+![Intro](../img/cypersApps/appIntro.png "cypers plan") ![Main](../img/cypersApps/appMain.png "cypers plan")
 
 [**처음으로 돌아가기**](../readme.md) &#x1F34E;
