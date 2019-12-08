@@ -10,4 +10,4 @@
 &nbsp;
 
 - 사이퍼즈 앱 개발 첫 날 (2019.12.07) [ **[Link](./cypersAppsDaily/start.md)** ]
-- 사이퍼즈 앱 개발 둘째 날 (2019.12.08) [ **[Link](./cypersAppsDaily/start2.md)** ]
+- 사이퍼즈 앱 개발 둘째 날 (2019.12.08) [ **[Link](./cypersAppsDaily/start02.md)** ]
